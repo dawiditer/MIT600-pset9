@@ -1,4 +1,4 @@
-# MIT600-pset9
+# Classes and methods
 ### Problem 1 ###
 We have implemented two different shape subclasses for you, namely Square and Circle. For each of these shapes, we are
 interested in getting the area (note how the respective area methods override the area method of the Shape superclass),
